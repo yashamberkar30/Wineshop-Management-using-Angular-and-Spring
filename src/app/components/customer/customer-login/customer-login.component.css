@@ -1,0 +1,19 @@
+.customer-login {
+  width: 70%;
+  margin: 0 auto;
+  box-shadow: rgba(226, 199, 47, 0.28) 0px 4px 7px 12px;
+  text-align: center;
+  padding: 40px;
+  background-image: url('/assets/images/loginimage.jpg'); /* Replace 'path-to-your-image.jpg' with the actual path to your image */
+  background-size: cover; /* Adjust the size and positioning of the background image as needed */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.error-message {
+  color: rgb(121, 31, 31);
+  font-size: 12px;
+}
+.sign-up{
+  color:rgb(75, 146, 113);
+  cursor: pointer;
+}

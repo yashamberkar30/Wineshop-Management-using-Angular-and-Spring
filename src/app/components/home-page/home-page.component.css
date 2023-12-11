@@ -1,0 +1,23 @@
+
+h1 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+img {
+    width: 80vw;
+    height: 400px;
+}
+#exploreMenuSection img {
+    height: 203px;
+}
+.carousel-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Set the height of your slider */
+  }
+  
+  .carousel-image img {
+    max-width: 100%;
+    max-height: 100%;
+  }

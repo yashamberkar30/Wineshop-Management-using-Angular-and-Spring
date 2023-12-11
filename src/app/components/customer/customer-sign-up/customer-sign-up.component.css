@@ -1,0 +1,23 @@
+html,body {
+    background-image: url('/assets/images/loginimage.jpg'); /* Replace 'path-to-your-image.jpg' with the actual path to your image */
+    background-size: cover; /* Adjust the size and positioning of the background image as needed */
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.information {
+    width: 400px;
+}
+.register-tab {
+    width: 40%;
+    margin: 0 auto;
+    box-shadow: rgba(223, 185, 63, 0.28) 0px 4px 7px 12px;
+    padding: 20px;
+}
+table tr td{
+    padding: 10px
+}
+
